@@ -8,4 +8,4 @@ v0.4 — Formspree contact form integration.
 
 ## Privacy / confidentiality
 
-This public repository contains only website code and public-facing content. It contains no Global Opportunity Scanner (GOS) source code, architecture, methods, prompts, source lists, or other confidential project information.
+This public repository contains only website code and public-facing content.
