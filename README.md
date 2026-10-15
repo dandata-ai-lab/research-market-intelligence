@@ -4,7 +4,7 @@ Public static website for Dan & Data AI Lab research and market intelligence ser
 
 ## Version
 
-v0.4 — Formspree contact form integration.
+v1.0 — Stable public website.
 
 ## Privacy / confidentiality
 
